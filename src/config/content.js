@@ -147,5 +147,40 @@ export const siteConfig = {
         },
       ],
     },
+
+    {
+      id: "university",
+      label: "university notes",
+      icon: "⚛️",
+      files: [
+        {
+          id: "javathrory",
+          label: "java_throry",
+          path: "/docs/uni/java_throry.md",
+        },
+
+        {
+          id: "javathroryexplanation",
+          label: "java_throry explanation",
+          path: "/docs/uni/java_throry_explanation.md",
+        },
+
+        {
+          id: "javaprograms",
+          label: "java_programs",
+          path: "/docs/uni/java_programs.md",
+        },
+
+        {
+          id: "javaprogramsexplanation",
+          label: "java_programs explanation",
+          path: "/docs/uni/java_programs_explanation.md",
+        },
+        
+         
+
+      ],
+    },
+    
   ],
 }
